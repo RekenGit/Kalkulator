@@ -1,6 +1,6 @@
 # Kalkulator
-Program ten to prosty kalkulator.
-![Obrazek pokazujący program #1]( https://i.imgur.com/0w2wmsv.png)
+Program ten to prosty kalkulator.<br/>
+![Obrazek pokazujący program #1]( https://i.imgur.com/0w2wmsv.png)<br/>
 ### Działanie programu
 W skrócie jest to zwykły kalkulator prosty, który może dodawać, odejmować, mnożyć i dzielić liczby. 
 #### Info
