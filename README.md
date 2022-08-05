@@ -4,5 +4,5 @@ Program ten to prosty kalkulator.
 ### Działanie programu
 W skrócie jest to zwykły kalkulator prosty, który może dodawać, odejmować, mnożyć i dzielić liczby. 
 #### Info
-Plik .exe to plik z skompilowanym programem.
+Plik .exe to plik z skompilowanym programem.<br/>
 Plik .cs to plik zawierający skrypt programu.
